@@ -1,3 +1,2 @@
-This is my first file i created in git using ssh authentication.
-This file i want to commit as second. 
+This is my first file i created in git using ssh authentication 
 
